@@ -54,7 +54,7 @@ Here Big Data is a **synonym for Data Science**
 
 CDC focuses on Big Data from this dual perspective
 
-- As a kind of **data** --- 3D (Volume, Velocity, Variety) \
+- As a kind of **data** --- 3D (Volume, Velocity, Variety)
 - As a kind of **institution** --- built around data
 
 CDS focuses on how the **levels** of technology and society **related**
