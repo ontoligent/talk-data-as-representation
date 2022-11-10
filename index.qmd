@@ -103,20 +103,23 @@ Democracy runs on **public opinion**, which is represented by the **media**
 
 Now, Big Data means that data has become a **dominant social medium**
 
+ - Finance, commerce, labor, education, romance, etc.
+ - **Web3** is the idea that government itself will be replaced by data (Blockchain)
+
+_**Every significant social relationship is now mediated by data**_
+
 - This is **historically singular**
-
-Every significant social relationship is now mediated by data
-
-- Finance, commerce, labor, education, romance, etc.
-- **Web3** is the idea that government itself will be replaced by data (Blockchain)
 
 ## Signifance
 
-This is more than saying we are dependent on the big data economy
+This is more than saying we are dependent on the Big Data economy
 
-- Or that Gig Data is **disruptive**
+- Or that Big Data is **disruptive**
 - Or that Big Data is biased
-- Or that data is 
+- Or that Big Data is spying on us
 
-## Effects
+It is saying that the fabric of our society 
+
+## So what?
+
 
