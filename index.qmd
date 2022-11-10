@@ -2,13 +2,21 @@
 title: "Data as Representation"
 subtitle: "Framing Critical Data Studies"
 author: "Raf Alvarado"
+date: "November 11, 2022"
+institute: "Associate Professor AGF<br>UVA School of Data Science<br/><b>Datapalooza 2022</b>"
 format: 
     revealjs:
         theme: [default, custom.css]
 editor: visual
 ---
 
-## Critical Data Studies
+![](images/qrcode_ontoligent.github.io.png){fig-align="center"}
+
+::: {.center}
+[https://ontoligent.github.io/talk-data-as-representation](https://ontoligent.github.io/talk-data-as-representation)
+:::
+
+## What is Critical Data Studies?
 
 > Critical Data Studies is an emerging, interdisciplinary field that addresses the ethical, legal, social, cultural, epistemological and political aspects of data science, **big data** and digital infrastructures.
 
@@ -24,80 +32,91 @@ That we live in the era of "big data" is a **commonplace**
 
 - In fact, it has become a tired **meme**
 
-Often understood in purely **technical** terms
+Commonly understood as a purely **technical** idea
 
 - 3D data, etc.
+- 4th Paradigm of Science
 
-But it also means something like **Big Science**
+But: It also means something like Big Science or Big Pharma
 
-- i.e. *Big Data-Science* ...
+- i.e. **Big Data-Science** ...
 
-## Big Data
+## Big Data Science
 
-This media usage is typical:
+For example, this usage is typical in the media:
 
 ![](images/wsj-big-data.jpg){.shadow}
 
 [Big Data's Big Problem: Little Talent (*WSJ*, April 29, 2012)](https://www.wsj.com/articles/SB10001424052702304723304577365700368073674)
 
-## Big Data
+## Big Data and CDS
 
-So, Big Data has a dual meaning
+CDC focuses on Big Data from this dual perspective
 
-- As a kind of **data** --- 3D (Volume, Velocity, Variety)
+- As a kind of **data** --- 3D (Volume, Velocity, Variety) \
 - As a kind of **institution** --- built around data
 
-CDS focuses on how these meanings are related\
-\
-$\rightarrow$ To understand this relation, let's begin at the beginning
+CDS focuses on how the **levels** of technology and society **related**
 
-## Society
+## Society is Relational
 
-The basic unit of society is the **relationship**, not the individual
+So, the basic unit of society is the **relationship**, not the individual
 
-- The view from anthropology (Marylin Strathern, Roy Wagner)
+- The view from **anthropology** (Marylin Strathern, Roy Wagner)
 
-Consider **gender**
+Consider male/female, parent/child, consumer/producer, labor/capital, etc.
 
-- Cross-culturally, the concept fundamentally defines a relationship, not an individual identity
+- Each dyad defines a relationship, not an individual identity
+- Each dyad contains a collection of **complementarities** of normative **traits and behaviors**
 
-- The dyad male-female defines a collection of complementarities
+---
 
 **Society** as a whole is constructed from of these relationships
 
-## Representation
+_If you want to change society, you change these relationships_ [^1]
 
--   Social relations are always mediated by a form of representation
-    -   Language, ritual, money, etc.
-    -   These are "social media"
-    -   Considered essential to society
--   Relationships are **constituted** by these media
+[^1]: Easier said than done :-) 
+
+## Relations are Mediated
+
+Social relations are **mediated** forms of **representation**
+
+- Language, writing, ritual, money, etc.
+- These literally are **social media** (a term coined in the 19th c.)
+
+Relationships are **constituted** by social media
+
+- Both there forms and their contents
+- E.g. orality and specific myths
 
 ## Scale
 
--   Different media forms are associated with different social forms
--   Large-scale societies require writing
--   The liberal democratic nation state emerged with the newspaper
--   Democracy runs on public opinion, which is represented by the media
--   Principle of emergence
+Different media forms are associated with different **social forms**
+
+- **Large-scale societies** (states) require **writing**
+- The liberal democratic nation state emerged with the **newspaper** (~18th c.)
+- Not a causal relationship, but systemic
+
+Democracy runs on **public opinion**, which is represented by the **media**
 
 ## Data as Medium
 
--   Data has become a dominant social medium
--   Significance of "big data"
--   Every significant social relationship is now mediated by data
+Now, Big Data means that data has become a **dominant social medium**
 
-## Googlization
+- This is **historically singular**
 
--   Hal Varian's model of the networked computer as disintermediator
+Every significant social relationship is now mediated by data
+
+- Finance, commerce, labor, education, romance, etc.
+- **Web3** is the idea that government itself will be replaced by data (Blockchain)
+
+## Signifance
+
+This is more than saying we are dependent on the big data economy
+
+- Or that Gig Data is **disruptive**
+- Or that Big Data is biased
+- Or that data is 
 
 ## Effects
 
--   Cognitive
--   Social
-
-## Thick Mediation
-
-## Web3
-
-## What We Must Do

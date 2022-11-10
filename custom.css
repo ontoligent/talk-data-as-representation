@@ -8,9 +8,9 @@ $link-color: #42affa;
 /*-- scss:rules --*/
 
 .reveal .slide h2 {
-    padding-bottom: 1rem;
-    margin-bottom: 1rem;
-    border-bottom: 1px solid gray;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid gray;
 }
 
 .reveal .slide blockquote {
@@ -26,4 +26,14 @@ $link-color: #42affa;
 
 .reveal .slide ul {
   list-style-type: none; /* Remove bullets */
+}
+
+.reveal .slide .center {
+  text-align: center;
+}
+
+.reveail .slide p,
+.reveail .slide ul
+{
+  line-height: 1;
 }
