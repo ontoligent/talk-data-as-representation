@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+/*
+$body-bg: #191919;
+$body-color: #fff;
+$link-color: #42affa;
+*/
+/*-- scss:rules --*/
+
+.reveal .slide h2 {
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid gray;
+}
+
+.reveal .slide blockquote {
+  border-left: 3px solid white;
+  font-family: serif;
+  padding-left: 0.75rem;
+}
+
+.reveal .slide .shadow {
+    box-shadow: 10px 10px 10px lightgray;
+    border: 1px solid lightgray;
+}
+
+.reveal .slide ul {
+  list-style-type: none; /* Remove bullets */
+}
