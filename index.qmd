@@ -22,15 +22,15 @@ editor: visual
 
 That we live in the era of "big data" is a **commonplace**
 
--   In fact, it has become a tired **meme**
+- In fact, it has become a tired **meme**
 
 Often understood in purely **technical** terms
 
--   3D data, etc.
+- 3D data, etc.
 
 But it also means something like **Big Science**
 
--   i.e. *Big Data-Science* ...
+- i.e. *Big Data-Science* ...
 
 ## Big Data
 
@@ -44,22 +44,26 @@ This media usage is typical:
 
 So, Big Data has a dual meaning
 
--   As a kind of **data** --- 3D (Volume, Velocity, Variety)
--   As a kind of **institution** --- built around data
+- As a kind of **data** --- 3D (Volume, Velocity, Variety)
+- As a kind of **institution** --- built around data
 
-CDS focuses on how these meanings are related
-\
+CDS focuses on how these meanings are related\
 \
 $\rightarrow$ To understand this relation, let's begin at the beginning
 
 ## Society
 
--   The basic unit of society is the **relationship**, not the individual
-    -   The view from anthropology (Marylin Strathern, Roy Wagner)
--   Consider **gender**
-    -   Cross-culturally, the concept fundamentally defines a relationship, not an individual identity
-    -   The dyad male-female defines a collection of complementarities
--   **Society** as a whole is constructed from of these relationships
+The basic unit of society is the **relationship**, not the individual
+
+- The view from anthropology (Marylin Strathern, Roy Wagner)
+
+Consider **gender**
+
+- Cross-culturally, the concept fundamentally defines a relationship, not an individual identity
+
+- The dyad male-female defines a collection of complementarities
+
+**Society** as a whole is constructed from of these relationships
 
 ## Representation
 
