@@ -152,14 +152,15 @@ But since society is built on relationships, we can empirically study these syst
 - Statistically
 - From a "business" perspective ...
 
-## Examples
+## Example: Medicine
 
-Two examples:
+We can study the  `Patient-Doctor` relationship locally
 
--   `Patient-Doctor` relations in **medicine**
--   `Student-Teacher` relations in **education**
+- As it is **reintermediated** by the data
+- Once doctors catch on ...
 
-This relations are increasingly mediated by **platforms** that both **connect and distance**
+Or we can study the emergent effects of this on medicine itself
 
--   capture data
--   contextualize with analytics
+- Will we have hospitals?
+- Where and how will medical decisions be made?
+- What does the Ubering of medicine mean for healthcare as a system?
