@@ -12,8 +12,8 @@ editor: visual
 
 ![](images/qrcode_ontoligent.github.io.png){fig-align="center"}
 
-::: {.center}
-[https://ontoligent.github.io/talk-data-as-representation](https://ontoligent.github.io/talk-data-as-representation)
+::: center
+<https://ontoligent.github.io/talk-data-as-representation>
 :::
 
 ## What is Critical Data Studies?
@@ -30,99 +30,127 @@ editor: visual
 
 That we live in the era of "big data" is a **commonplace**
 
-- In fact, it has become a tired **meme**
+-   In fact, it has become a tired **meme**
 
 Commonly understood as a purely **technical** idea
 
-- 3D data, etc.
-- 4^th^ Paradigm of Science
+-   3D data, 4^th^ Paradigm of Science, etc.
 
 But: It also means something like Big Science or Big Pharma
 
-- i.e. **Big Data-Science** ...
+-   i.e. **Big Data-Science** ...
 
 ## Big Data Science
 
 For example, this usage is typical in the media:
 
-![](images/wsj-big-data.jpg){.shadow}
-<small>[Big Data's Big Problem: Little Talent (*WSJ*, April 29, 2012)](https://www.wsj.com/articles/SB10001424052702304723304577365700368073674)</small>
+![](images/wsj-big-data.jpg){.shadow} <small>[Big Data's Big Problem: Little Talent (*WSJ*, April 29, 2012)](https://www.wsj.com/articles/SB10001424052702304723304577365700368073674)</small>
 
 Here Big Data is a **synonym for Data Science**
 
 ## Big Data and CDS
 
-CDC focuses on Big Data from this dual perspective
+CDS focuses on Big Data from this dual perspective
 
-- As a kind of **data** --- 3D (Volume, Velocity, Variety)
-- As a kind of **institution** --- built around data
+-   As a kind of **technology** --- 3D (Volume, Velocity, Variety)
+-   As a kind of **institution** --- built around data
 
-CDS focuses on how the **levels** of technology and society **related**
+Here, I'd like to sketch out an **anthropological framework** for studying how these levels **interoperate**
 
-## Society is Relational
+-   Presented as a series of **propositions**
 
-So, the basic unit of society is the **relationship**, not the individual
+## 1 Society is Relational
 
-- The view from **anthropology** (Marylin Strathern, Roy Wagner)
+Society is built out of **relationships**, not individuals
 
-Consider male/female, parent/child, consumer/producer, labor/capital, etc.
+-   Relationships have a basis that **precedes so-called rational action**
+-   In contrast to **methodological individualism**
 
-- Each dyad defines a relationship, not an individual identity
-- Each dyad contains a collection of **complementarities** of normative **traits and behaviors**
+At least we can agree that **relationships are foundational to society**
 
----
+## Relational Dyads
 
-**Society** as a whole is constructed from of these relationships
+By relationship, I mean relational **dyads** ---
 
-_If you want to change society, you change these relationships_ [^1]
+> `male/female`, `parent/child`, `consumer/producer`, `labor/capital`, `student/teacher`, `doctor/patient`, `us/them`, `I/thou`, etc.
 
-[^1]: Easier said than done :-) 
+Each specifies **complementary traits** and **expected behaviors**
 
-## Relations are Mediated
+## 2 Social Relations are Mediated
 
-Social relations are **mediated** forms of **representation**
+Social relations are **mediated** by forms of **representation**
 
-- Language, writing, ritual, money, etc.
-- These literally are **social media** (a term coined in the 19^th^ c.)
+-   Language, writing, ritual, money, etc.
+-   These literally are **social media** (a term coined in the 19^th^ c.)
 
-Relationships are **constituted** by social media
+Relationships are **constituted** by these media
 
-- Both there forms and their contents
-- E.g. orality and specific myths
+-   Both their forms and their contents
+-   E.g. orality and specific myths
 
-## Media Enables Scale
+## 3 Media Enable Scale
 
-Different media forms are associated with different **social forms**
+Different **media forms** are associated with different emergent **social orders**
 
-- **Large-scale societies** (states) require **writing**
-- The liberal democratic nation state emerged with the **newspaper** (~18^th^ c.)
-- Not a causal relationship, but systemic
+-   **Large-scale societies** (states) require **writing**
+-   The liberal democratic **nation state** emerged with the **newspaper** (\~18^th^ c.)
+    -   Not causal, but **systemic**
+-   Democracy runs on **public opinion**, which is represented by the **media**
 
-Democracy runs on **public opinion**, which is represented by the **media**
-
-## Data is a Social Medium
+## 4 Data is a Social Medium
 
 Now, Big Data means that data has become a **dominant social medium**
 
- - Finance, commerce, labor, education, romance, etc.
- - **Web3** is the idea that government itself will be replaced by data (Blockchain)
+-   Finance, commerce, labor, education, romance, etc.
 
-_**Nearly every significant social relationship is now mediated by data**_
+Therefore, it is bound up with emerging social (and cultural) orders
 
-- This is **historically singular** --- and recent
+------------------------------------------------------------------------
 
-## Signifance
+The trend over the past three decades has been the progressive **reintermediation** of social relations
 
-This is more than saying we are dependent on the Big Data economy
+-   Within the **economic** and **private social** spheres
+-   Most recently, **Web3** is the idea that government itself will be replaced by data (Blockchain)
+    -   a society without trust
 
-- Or that Big Data is **disruptive**
-- Or that Big Data is **biased**
-- Or that Big Data is **spying on us**
+------------------------------------------------------------------------
 
-It is saying that the structure of our society and the content of our culture are changing
+::: {style="color:red;font-size:110%;"}
+**Nearly every significant social relationship is now mediated by data**
+:::
 
-- _**What are these new forms of life?**_
+-   This is **historically singular** --- and recent
 
-## So what?
+Data mediates both as a **social agent** and a **cognitive form**
 
+-   This is a very big deal
 
+## Significance
+
+It is not simply that we have become **dependent** on the Big Data economy
+
+-   Or that Big Data is **disruptive**, or **biased**, or **spying on us** . . . all of which are important
+
+It is means that there are **system-level changes** taking place right now
+
+-   Akin to Polanyi's *Great Transformation*
+-   Akin to the rise of the nation state
+
+----
+
+But since society is built on relationships, we can empirically studys these systemic phenomena **on the ground** by investigating mediated social relationships
+
+-   Ethnographically
+-   Statistically
+
+## Examples
+
+Two examples:
+
+-   `Patient-Doctor` relations in **medicine**
+-   `Student-Teacher` relations in **education**
+
+This relations are increasingly mediated by **platforms** that both **connect and distance**
+
+-   capture data
+-   contextualize with analytics
