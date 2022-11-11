@@ -103,9 +103,9 @@ Now, Big Data means that data has become a **dominant social medium**
 
 -   Finance, commerce, labor, education, romance, etc.
 
-Therefore, it is bound up with emerging social (and cultural) orders
+Therefore, it is bound up with **emerging social (and cultural) orders**
 
-------------------------------------------------------------------------
+## Reintermediation
 
 The trend over the past three decades has been the progressive **reintermediation** of social relations
 
@@ -121,7 +121,7 @@ The trend over the past three decades has been the progressive **reintermediatio
 
 -   This is **historically singular** --- and recent
 
-Data mediates both as a **social agent** and a **cognitive form**
+Data mediates both as **social agent** and **cognitive form**
 
 -   This is a very big deal
 
@@ -129,19 +129,28 @@ Data mediates both as a **social agent** and a **cognitive form**
 
 It is not simply that we have become **dependent** on the Big Data economy
 
--   Or that Big Data is **disruptive**, or **biased**, or **spying on us** . . . all of which are important
+Or that Big Data is **disruptive**, or **biased**, or **spying on us** . . . all of which are important
 
 It is means that there are **system-level changes** taking place right now
 
--   Akin to Polanyi's *Great Transformation*
--   Akin to the rise of the nation state
+----
+
+At the level of **sectors**
+
+- Education, medicine, banking, etc.
+
+At the level of **political economic orders**
+
+- Akin to Polanyi's *Great Transformation*
+- Akin to the rise of the nation state
 
 ----
 
-But since society is built on relationships, we can empirically studys these systemic phenomena **on the ground** by investigating mediated social relationships
+But since society is built on relationships, we can empirically study these systemic phenomena **on the ground** by investigating mediated social relationships
 
--   Ethnographically
--   Statistically
+- Ethnographically
+- Statistically
+- From a "business" perspective ...
 
 ## Examples
 
